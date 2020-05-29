@@ -24,7 +24,7 @@ mvn clean install
 mvn spring-boot:run
 ```
 
-- Linha de comando Windos
+- Linha de comando Linux
 1. Acessar o diretório onde foi baixado
 2. Executar os seguintes comandos:
 
